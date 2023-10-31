@@ -1,4 +1,6 @@
-# hello_world
+Student id: 2110017
+Name: Shinpolatov Nurdaulet
+Group: JSE 03
 
 A new Flutter project.
 
