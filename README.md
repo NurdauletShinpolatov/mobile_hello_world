@@ -1,6 +1,6 @@
 Student id: 2110017
 Name: Shinpolatov Nurdaulet
-Group: JSE 03
+Group: JSE 02
 
 A new Flutter project.
 
